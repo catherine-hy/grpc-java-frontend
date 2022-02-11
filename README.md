@@ -1,2 +1,1 @@
-grpc-java-frontend
-# yhuang-grpc-java-frontend
+# grpc-java-frontend
